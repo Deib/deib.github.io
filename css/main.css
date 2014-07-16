@@ -1,5 +1,6 @@
 body {
-	background-color:gray;
+	background-color:#333333;
+	background:url("../resources/img/hex-big.png") repeat;
 }
 
 .textDiv {
