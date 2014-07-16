@@ -1,0 +1,12 @@
+body {
+	background-color:gray;
+}
+
+.textDiv {
+	background-color:white;
+	border-radius:20px;
+	padding:20px;
+	padding-top:10px;
+	margin-bottom:20px;
+}
+
